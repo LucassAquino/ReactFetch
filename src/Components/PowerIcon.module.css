@@ -1,0 +1,9 @@
+.figure{
+    display: flex;
+    flex-direction: column;
+    width: 75px;
+    height: 75px;
+    margin-inline: 10px;
+    border-radius: 45%;
+    background-color: #484d50;
+}

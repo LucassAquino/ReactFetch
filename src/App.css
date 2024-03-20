@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+#selectItensDiv{
+  display: block;
+  text-align: center;
+}
+
+#label{
+  font-size: 2rem;
+  padding-right: 1.2%;
+}
+
+#select {
+  right: 50%;
+  margin-top: 3rem;
+  font-size: 20px; 
+  border: 2px solid gray; 
+  border-radius: 30px; 
+  padding: 5px; 
+  width: 200px;
+  text-align: center;
+}
